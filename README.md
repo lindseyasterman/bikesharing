@@ -26,3 +26,5 @@ We were asked to create visualizations of bike-sharing data to determine if the 
 - The most frequent trip duration for male customers is only five (5) minutes. The high frequency of short trips is also true for the other two genders. Most rides are no longer than 30 minutes.
 ![Checkout Time](https://github.com/lindseyasterman/bikesharing/blob/main/images/Checkout_time.png)
 
+### Summary
+The data from CitiBike suggests that to be profitable the new bike-sharing business should be located in a heavily populated area.  Ideally, this would be a city with a thriving downtown area that incorporates housing and businesses. The data also shows that subscribers make up the majority of all rides and males are a key demographic.  Peak hours are concentrated around a normal business hour commute and the average trip duration is very short, all suggesting that rides are utilized for the trip to and from work. It would be helpful to gather more data from other parts of the year to determine if ridership changes seasonally.  It would also be imperative to gather data regarding the demographics of Des Moines and compare those to New York.
